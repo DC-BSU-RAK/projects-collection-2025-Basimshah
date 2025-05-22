@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="mood_array">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Energetic</item>
+        <item>Calm</item>
+        <item>Romantic</item>
+        <item>Angry</item>
+    </string-array>
+</resources>
